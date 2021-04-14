@@ -1,0 +1,19 @@
+{
+  "name": "one",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Clément DUNGLER <clementdungler@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/one.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  }
+}
